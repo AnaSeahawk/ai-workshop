@@ -1,6 +1,6 @@
 # 3. Test with a private repository
 
-Use the verified personal GitHub account, a fresh local folder, and a unique name for a **private** practice repository. Use a plain README with no personal data. This exercise creates a repository and two local copies.
+Use the verified personal GitHub account and a unique name for a **private** practice repository. Use the learner’s chosen workshop folder. If they haven’t chosen one, create `~/AI-Workshop` on their Mac and tell them its location so they can select it in Claude Desktop. Preserve any existing files. Create two fresh project folders inside it for the primary copy and the test clone. Use a plain README with no personal data.
 
 1. Create the repository with `gh repo create OWNER/NAME --private`, substituting the verified account and chosen repository name. Confirm the owner, URL, and private visibility through GitHub CLI before pushing.
 2. Initialize Git in the first fresh folder, commit the README on `main`, add the verified HTTPS remote, and push with `git push -u origin main`.

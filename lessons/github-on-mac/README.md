@@ -1,6 +1,6 @@
 # Set up GitHub with Claude on a Mac
 
-Open Claude Desktop and choose **Code → Local** if available. Pick the model you want to work with. You can also start in regular chat and ask Claude to guide you to a local session.
+See the [Claude Desktop checklist](../../README.md#before-your-first-claude-desktop-session) for the folder and permission settings. Open Claude Desktop and choose **Code → Local** if available. Pick the model you want to work with. You can also start in regular chat and ask Claude to guide you to a local session.
 
 Give Claude this instruction:
 
